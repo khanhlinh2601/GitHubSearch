@@ -4,7 +4,7 @@
 
 
 ### About the project:
-<p>A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.The website is made using angular js framework, and uses components, custom directives, custom pipes, routing modules and classes to make the finished product</p>
+<p>A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.</p>
 <p align="center"><img src="https://i.imgur.com/Nnwn0kI.png" width="580px"/></p>
 See the official documentation for the Github Search API here: https://developer.github.com/v3/search/
      
