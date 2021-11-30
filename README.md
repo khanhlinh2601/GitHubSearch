@@ -1,5 +1,5 @@
 # GITHUB SEARCH         
-### Contributing
+### View Demo
 <p>https://khanhlinh2601.github.io/GitHubSearch/<p>
 
 
